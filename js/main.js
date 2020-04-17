@@ -57,7 +57,7 @@ if (synth.onvoiceschanged !== undefined) {
       if(textInput.value !== ''){
         
         //Add background pac man animation
-        body.style.background = '#141414 url(../img/b2.gif)';
+        body.style.background = '#141414 url(img/b2.gif)';
         body.style.backgroundRepeat = 'repeat-x';
         body.style.backgroundSize = '100% 100%';
 
